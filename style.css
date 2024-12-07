@@ -507,7 +507,7 @@ section .title::after{
     font-size: 20px;
     color: crimson;
     padding: 0 5px;
-    background: #fff;
+    background: black;
     transform: translateX(-50%);
 }
 
